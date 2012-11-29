@@ -50,13 +50,13 @@ namespace ARVR
             Choices action = new Choices("select", "move", "select the", "move the");
             Choices pieces = new Choices("pawn", "rook", "bishop", "knight", "king", "queen");
             Choices x_positions = new Choices("A", "B", "C", "D", "E", "F", "G", "H");
-            Choices y_positions = new Choices("1", "2", "3", "4", "5", "6", "7", "8");
+            Choices y_positions = new Choices("one", "two", "three", "four", "five", "six", "seven", "eight");
 
             //now build the complete pattern...
             GrammarBuilder commandRequest = new GrammarBuilder();
             commandRequest.Append(action);
             commandRequest.Append(pieces);
-            commandRequest.Append(new Choices("at", "to"));
+            commandRequest.Append(new Choices("at space", "to space"));
             commandRequest.Append(x_positions);
             commandRequest.Append(y_positions);
 
