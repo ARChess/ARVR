@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="ARVR.Service1" CodeBehind="ARVR.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ARVR.ARVR" CodeBehind="ARVR.svc.cs" %>
