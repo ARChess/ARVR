@@ -1,0 +1,5 @@
+C:\Users\Ethan McGee\Documents\GitHub\ARVR\ARVR\ARVR\bin\ARVR.dll
+C:\Users\Ethan McGee\Documents\GitHub\ARVR\ARVR\ARVR\bin\ARVR.pdb
+C:\Users\Ethan McGee\Documents\GitHub\ARVR\ARVR\ARVR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ethan McGee\Documents\GitHub\ARVR\ARVR\ARVR\obj\Debug\ARVR.dll
+C:\Users\Ethan McGee\Documents\GitHub\ARVR\ARVR\ARVR\obj\Debug\ARVR.pdb
