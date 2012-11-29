@@ -37,6 +37,11 @@ namespace ARVR
                 return result.Text;
         }
 
+        void sre_RecognizeCompleted(object sender, RecognizeCompletedEventArgs e)
+        {
+
+        }
+
         private void InitializeGrammar()
         {
             //[select <piece> at <x><y> | move <piece> to <x><y>]
